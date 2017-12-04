@@ -1,0 +1,20 @@
+.switch {
+    width: 100px;
+    background-color: rgb(104, 31, 31);
+    border: solid 1px black;
+    display: inline-block;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    width: 60px;
+    height: 30px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+button.on {
+    background-color: green;
+}
